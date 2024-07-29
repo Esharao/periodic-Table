@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.periodic-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: auto;
+}
+
+.element {
+    border: 1px solid
+}
+.empty{
+    background-color: white;
+}
+#red{
+    background-color: red;
+}
+#orange{
+    background-color: orange;
+}
+#light_b{
+    background-color: lightblue;
+}
+#pur{
+    background-color: purple;
+    color:white
+}
+#yellow{
+    background-color: yellow;
+}
