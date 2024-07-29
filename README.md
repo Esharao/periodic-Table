@@ -1,4 +1,4 @@
-# periodic-Table
+# Periodic-Table
 This can be created using these simple steps.
 1. Create an Html file : PeriodicTable
 2. Apply table tag .
